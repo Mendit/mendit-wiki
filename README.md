@@ -3,5 +3,5 @@
 
 Central hub point for all the documents.
 
-* [Wiki Main](../../wiki/Application Architecure Overview)
+* [Application Architecure Overview](../../wiki/Application Architecure Overview)
 
